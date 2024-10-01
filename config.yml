@@ -1,0 +1,13 @@
+---
+template: Hello, %s!
+defaultName: TrackHealthy
+
+mongodb:
+  host: localhost
+  port: 27017
+  database: caloriesDB
+
+logging:
+  level: INFO
+  loggers:
+    c0m.rhythm.beHeathly: DEBUG
