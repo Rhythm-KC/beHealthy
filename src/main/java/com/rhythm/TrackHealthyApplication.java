@@ -1,9 +1,9 @@
 package com.rhythm;
 
 
-import com.rhythm.controller.UserController;
-import com.rhythm.dao.Mongo.UserDAO;
+import com.rhythm.api.UserController;
 import com.rhythm.db.MongoDB;
+import com.rhythm.db.dao.Mongo.UserDAO;
 import com.rhythm.resources.UserService;
 
 import io.dropwizard.core.Application;
