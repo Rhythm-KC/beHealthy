@@ -1,4 +1,4 @@
-package com.rhythm.dao.Mongo;
+package com.rhythm.db.dao.Mongo;
 
 import java.util.List;
 
